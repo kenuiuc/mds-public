@@ -29,6 +29,12 @@ Course Number                                                    |  Course Title
 [DSCI 554](https://github.com/UBC-MDS/DSCI_554_exper-causal-inf)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |                      |                     |      |
 [DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |   :heavy_check_mark: |                      |                     |      |
 [DSCI 591](https://github.com/UBC-MDS/DSCI_591_capstone-proj)     | Capstone project                            |   :heavy_check_mark: |       n/a            |       n/a           |      |
+[DSCI 532](https://github.com/UBC-MDS/DSCI_532_viz-2)             |  Data Visualization II                      |   :heavy_check_mark: |                      |                     |      |
+[DSCI 553](https://github.com/UBC-MDS/DSCI_553_stat-inf-2)        |  Statistical Inference and Computation II   |   :heavy_check_mark: |                      |                     |      |
+[DSCI 563](https://github.com/UBC-MDS/DSCI_563_unsup-learn)       |  Unsupervised Learning                      |   :heavy_check_mark: | :heavy_check_mark:                      |   :heavy_check_mark:                  |       |
+[DSCI 574](https://github.com/UBC-MDS/DSCI_574_spat-temp-mod)     |  Spatial and Temporal Models                |   :heavy_check_mark: |                      |                     |       |
+
+
 
 
 For information about DSCI 591 (our Capstone Project), including a list of past projects and information on how to partner with us, see [here](https://ubc-mds.github.io/capstone/about/).
